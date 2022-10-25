@@ -13,10 +13,12 @@
 link miro https://miro.com/app/board/uXjVPKCTo9c=/
 
 ## - Bussines Model Canvas.
+![image](https://user-images.githubusercontent.com/116599697/197663107-dcfaa4a9-e263-44fc-b7dd-9c9816e2d47a.png)
 
+link miro: https://miro.com/app/board/uXjVPKACI6o=/
 
 ## - Video
-
+link: https://youtu.be/-8uJal737gA
 
 ## - Banco de dados
 https://www.grandviewresearch.com/
